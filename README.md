@@ -1,2 +1,3 @@
 # EcoWise-Food-Waste
-Food Waste Awareness Page for EcoWise Sustainability Website – NCI Web Design and Development Project 2026.
+
+Food waste awareness and reduction tips for the EcoWise SDG 12 Web Design and Development project at NCI..
