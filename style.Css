@@ -1,0 +1,133 @@
+h1 {
+	background-color:#245C48;
+	color: #FFFFFF;
+	padding: 20px 40px; 
+	margin: 0;
+}
+.site-header {
+	background-color: #245C48;
+	padding: 15px 40px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+.logo-title {
+	color: #FFFFFF;
+	margin: 0;
+	font-size: 2rem;
+}
+.nav-container {
+	margin-top: 16px;
+}
+body {
+	background-color:#FFFFFF;
+	overflow-x: hidden;
+}
+.nav-link {
+	background-color: #97BE8E;
+	color: #FFFFFF;
+	border-radius: 10px;
+	margin-left: 12px; 
+	padding: 8px 18px;
+	font-weight: 600;
+}
+.nav-link:hover {
+	background-color: #82ab79;
+	color: #FFFFFF;
+}
+.introduction-box {
+	background-color: #97BE8E;
+	border-radius: 40px;
+	padding: 40px 50px; 
+	margin-top: 25px;
+	color: #FFFFFF;
+}
+.title {
+	font-weight: 700;
+	font-size: 2.2rem; //*1rem is 16px and 2.2rem equals to 35.2px*//
+	margin-bottom: 15px;
+}
+.text {
+	font-size: 1.05rem; //*1.05rem is 16.8px*//
+	line-height: 1.6;
+	margin: 0;
+}
+.image {
+	width: 100%;
+	max-width: 450px;
+	height: auto;
+	border-radius: 45px;
+	object-fit: cover;
+}
+.introduction-boxtwo {
+	background-color: #ECF7DF;
+	border-radius: 40px;
+	padding: 40px 50px; 
+	margin-top: 25px;
+	color: #FFFFFF;
+}
+.title-two {
+	color: black;
+	font-weight: 700;
+	font-size: 2.2rem;
+	margin-bottom: 15px;
+}
+.text-two {
+	color: black;
+	font-size: 1.05rem;
+	line-height: 1.6;
+	margin: 0;
+}
+.introduction-boxthree {
+	background-color: #ECF7DF;
+	border-radius: 40px;
+	padding: 40px 50px; 
+	margin-top: 25px;
+	color: #FFFFFF;
+}
+.title-three {
+	color: black;
+	font-weight: 700;
+	font-size: 2.2rem;
+	margin-bottom: 15px;
+}
+.text-three {
+	color: black;
+	font-size: 1.05rem;
+	line-height: 1.6;
+	margin: 0;
+}
+.introduction-boxfour {
+	background-color: #ECF7DF;
+	border-radius: 40px;
+	padding: 40px 50px; 
+	margin-top: 25px;
+	color: #FFFFFF;
+}
+.title-four {
+	color: black;
+	font-weight: 700;
+	font-size: 2.2rem;
+	margin-bottom: 15px;
+}
+.text-four {
+	color: black;
+	font-size: 1.05rem;
+	line-height: 1.6;
+	margin: 0;
+}
+.nav-linktwo {
+	background-color: #a7d19d;
+	color: #FFFFFF;
+	border-radius: 10px;
+	margin-top: 12px; 
+	padding: 8px 18px;
+	font-weight: 600;
+	text-decoration: none;
+}
+.nav-linktwo:hover {
+	background-color: #82ab79;
+	color: #FFFFFF;
+}
+.text-center {
+	color:black;
