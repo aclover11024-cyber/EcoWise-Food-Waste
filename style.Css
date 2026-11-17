@@ -24,7 +24,7 @@ body {
 	overflow-x: hidden;
 }
 .nav-link {
-	background-color: #97BE8E;
+	background-color: #245C48;
 	color: #FFFFFF;
 	border-radius: 10px;
 	margin-left: 12px; 
@@ -32,7 +32,7 @@ body {
 	font-weight: 600;
 }
 .nav-link:hover {
-	background-color: #82ab79;
+	background-color: #1B4536;
 	color: #FFFFFF;
 }
 .introduction-box {
